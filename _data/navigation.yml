@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://choiiis.github.io/
+    url: https://ElveCity.github.io/
 
   - title: "About"
     url: /about/
 
   - title: "GitHub"
-    url: https://github.com/choiiis
+    url: https://github.com/ElveCity
 
   # - title: "Projects"
   #   url: /projects/
@@ -16,13 +16,29 @@ main:
   #   url: /categories/
 
 # sidebar navigation (categories)
-# 2022.02.15 sidebar update : simple ver.
+# 2025.12.19 sidebar update : simple ver.
 categories:
-  - title: "Categories1"
-    url: /categories/categories1/
   - title: "Categories2"
     url: /categories/categories2/
-  - title: "Categories3"
-    url: /categories/categories3/
-  - title: "Categories4"
-    url: /categories/categories4/
+  - title: "Algorithm"
+    url: /categories/Algorithm/
+  - title: "C++"
+    url: /categories/C++/
+  - title: "C++pointer"
+    url: /categories/C++pointer/
+  - title: "Compile"
+    url: /categories/Compile/
+  - title: "ComputerNetwork"
+    url: /categories/ComputerNetwork/
+  - title: "DataStructuree"
+    url: /categories/DataStructure/
+  - title: "Internal Architecture of Function"
+    url: /categories/Internal Architecture of Function/
+  - title: "OS"
+    url: /categories/OS/
+  - title: "RenderingPipeline"
+    url: /categories/RenderingPipeline/
+  - title: "Timecomplexity"
+    url: /categories/Timecomplexity/
+  - title: "UnrealEngine"
+    url: /categories/UnrealEngine/

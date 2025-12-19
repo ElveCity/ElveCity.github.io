@@ -1,8 +1,10 @@
 ---
-title: "Hi all! I'm OOOOOO👋🏻"
+title: "안녕하세요"
 permalink: /about/
 layout: single
 comments: false
 ---
 
-본인 소개 여기에 입력
+C++ 프로그래밍 블로그입니다.
+
+email : o39084771@gmail.com
