@@ -4,7 +4,7 @@ main:
     url: https://ElveCity.github.io/
 
   - title: "About"
-    url: /about/
+    url: "/about"
 
   - title: "GitHub"
     url: https://github.com/ElveCity
@@ -30,7 +30,7 @@ categories:
     url: /categories/Compile/
   - title: "ComputerNetwork"
     url: /categories/ComputerNetwork/
-  - title: "DataStructuree"
+  - title: "DataStructure"
     url: /categories/DataStructure/
   - title: "Internal Architecture of Function"
     url: /categories/Internal Architecture of Function/
