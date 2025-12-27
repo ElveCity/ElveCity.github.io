@@ -1,5 +1,5 @@
 ---
-title: "C++ 프로그래밍 블로그입니다."
+title: "C++ Programming Blog."
 permalink: /about/
 layout: single
 comments: false
