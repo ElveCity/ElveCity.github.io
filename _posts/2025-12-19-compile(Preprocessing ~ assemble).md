@@ -1,5 +1,5 @@
 ---
-title: "컴파일"
+title: "Compile(Preprocessing ~ assemble)"
 excerpt: "전체 과정"
 
 categories:

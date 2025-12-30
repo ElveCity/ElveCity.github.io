@@ -1,13 +1,13 @@
----
+0---
 title: "Compile(Linking)"
 excerpt: "컴파일 과정 중 링킹에 대해서 다룹니다."
 
 categories:
-  - compile
+  - Compile
 tags:
-  - [compile, linking]
+  - [Compile, linking]
 
-permalink: /compile/linking
+permalink: /Compile/linking
 
 toc: true
 toc_sticky: true
