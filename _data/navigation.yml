@@ -16,10 +16,10 @@ main:
   #   url: /categories/
 
 # sidebar navigation (categories)
-# 2025.12.19 sidebar update : simple ver.
+# 2026.01.10 sidebar update : simple ver.
 categories:
-  - title: "Categories2"
-    url: /categories/categories2/
+  - title: "DirectX11"
+    url: /categories/DirectX11/
   - title: "Algorithm"
     url: /categories/Algorithm/
   - title: "C++"
