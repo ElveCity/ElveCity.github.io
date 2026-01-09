@@ -1,6 +1,6 @@
 ---
 title: "Compile(Preprocessing ~ Assemble)"
-excerpt: "전체 과정"
+excerpt: "컴파일 과정 중 전처리 ~ 어셈블에 대해서 다룹니다."
 
 categories:
   - Compile
