@@ -18,8 +18,8 @@ main:
 # sidebar navigation (categories)
 # 2026.01.10 sidebar update : simple ver.
 categories:
-  - title: "DirectX11"
-    url: /categories/DirectX11/
+  - title: "CS_Fundamentals"
+    url: /categories/CS_Fundamentals/
   - title: "Algorithm"
     url: /categories/Algorithm/
   - title: "C++"
