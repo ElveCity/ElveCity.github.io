@@ -116,3 +116,66 @@ RAM과 DISK와 같은 저장장치로 구분하도록 합니다.
 <h6 style="margin-bottom:5px">산술적 시프트(Arithmetic Shift)</h6>
 부호 비트의 보존을 위해 빈 공간을 원래의 가장 왼쪽 비트(부호비트)로 채우는 형태입니다.
 <div style="height:10px"></div>
+
+<h6 style="margin-bottom:5px">레지스터(Register)</h6>
+RAM보다 빠르고 용량이 더 작습니다.
+   
+x86-64에는 16개의 64비트 범용 레지스터(%rax, %rbx .. )가 있으며 연산의 피연산자나 주소값을 임시보관합니다.
+<div style="height:10px"></div>
+
+<h6 style="margin-bottom:5px">프로그램 카운터(Program Counter)</h6>
+CPU기준으로 다음 실행 명령어 메모리 주소를 가리키는 레지스터입니다.
+   
+x86-64기준 %rip가 이에 해당합니다.
+<div style="height:10px"></div>
+
+<h6 style="margin-bottom:5px">부호 확장(Sign Extension), 제로 확장(Zero Extension)</h6>
+작은 크기의 데이터(1byte)를 큰 공간(8byte)로 옮기는 경우 빈 공간을 채우는 방식
+   
+부호 확장의 경우 원래 값의 최상위비트인 부호 비트를 그대로 복사하여 채웁니다. 양수 음수값이 유지됩니다.
+   
+제로 확장의 경우 빈 공간을 모두 0으로 채웁니다.
+<div style="height:10px"></div>
+
+<h6 style="margin-bottom:5px">역참조(Dereferencing)</h6>
+포인터가 가리키는 메모리 위치에 실제로 접근하여 데이터를 읽거나 쓰는 것을 의미합니다.
+   
+x86-64기준 %rdi로 표현됩니다. %rdi에 들어있는 주소로 가서 데이터를 가져오라는 의미입니다.
+<div style="height:10px"></div>
+
+<h6 style="margin-bottom:5px"> 기반 인프라 레지스터(Infrastructure Registers)</h6>
+- %rax (Register Accumulator)
+   
+함수 리턴 값(Return Value) 반환
+- %rsp (Register Stack Pointer)
+   
+현재 스택의 최상단 주소(Top)를 가리킵니다.
+- %rbp (Register Base Pointer)
+   
+현재 스택 프레임의 시작점(기준점)을 가리킵니다.
+- %rbx (Register Base)
+   
+피호출자 보존(Callee-saved), 함수 호출 후 값이 유지되어야 하는 데이터를 보관합니다.
+<div style="height:10px"></div>
+
+<h6 style="margin-bottom:5px">인자 전달 레지스터(Argument Passing Registers</h6>
+- %rdi (Register Destination Index)
+   
+함수의 첫 번째 매개변수 전달
+- %rsi (Register Source Index)
+   
+함수의 두 번째 매개변수 전달
+- %rdx (Register Data)
+   
+함수의 세 번째 매개변수 전달(곱셈, 나눗셈 이런 산술 보조)
+- %rcx (Register Count)
+   
+함수의 네 번째 매개변수 전달(반복문 횟수 카운터)
+- %r8 (Register 8)
+   
+함수의 다섯 번째 매개변수 전달
+- %r9 (Register 9)
+   
+함수의 여섯 번째 매개변수 전달
+<div style="height:10px"></div>
+
