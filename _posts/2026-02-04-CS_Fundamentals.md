@@ -3,11 +3,11 @@ title: "기본 용어정리"
 excerpt: "CS에서 포함될 수 있는 기본적인 용어에 대하여 정리합니다."
 
 categories:
-  - CS
+  - CS_Fundamentals
 tags:
-  - [CS]
+  - [CS_Fundamentals]
 
-permalink: /categories4/CS/
+permalink: /categories4/CS_Fundamentals/
 
 toc: true
 toc_sticky: true
