@@ -1,9 +1,9 @@
 ---
-title: "DirectX11"
+title: "CS_Fundamentals"
 layout: category
-permalink: /categories/DirectX11/
+permalink: /categories/CS_Fundamentals_/
 author_profile: true
-taxonomy: DirectX11
+taxonomy: CS_Fundamentals_
 sidebar:
   nav: "categories"
 ---
