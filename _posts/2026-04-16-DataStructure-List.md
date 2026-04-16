@@ -3,7 +3,7 @@ title: "DataStructure, List"
 excerpt: "해당 파트의 이론 및 구현, 그 외 관련 이론에 대해서도 다룹니다."
 
 categories:
-  - DataStructre
+  - DataStructure
 tags:
   - [DataStructure, List]
 
