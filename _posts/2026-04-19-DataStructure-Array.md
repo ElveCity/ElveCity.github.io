@@ -7,7 +7,7 @@ categories:
 tags:
   - [DataStructure, Array]
 
-permalink: /DataStructure
+permalink: /DataStructure/Array
 
 toc: true
 toc_sticky: true

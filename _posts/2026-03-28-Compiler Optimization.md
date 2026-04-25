@@ -7,7 +7,7 @@ categories:
 tags:
   - [Compile, Optimization]
 
-permalink: /Compile/
+permalink: /Compile/Optimization
 
 toc: true
 toc_sticky: true

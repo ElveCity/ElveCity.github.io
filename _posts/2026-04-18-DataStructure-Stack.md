@@ -7,7 +7,7 @@ categories:
 tags:
   - [DataStructure, Stack]
 
-permalink: /DataStructure
+permalink: /DataStructure/Stack
 
 toc: true
 toc_sticky: true

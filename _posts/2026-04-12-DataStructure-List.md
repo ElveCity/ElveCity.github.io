@@ -7,7 +7,7 @@ categories:
 tags:
   - [DataStructure, List]
 
-permalink: /DataStructure
+permalink: /DataStructure/List
 
 toc: true
 toc_sticky: true
