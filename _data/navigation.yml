@@ -24,21 +24,15 @@ categories:
     url: /categories/Algorithm/
   - title: "C++"
     url: /categories/C++/
-  - title: "C++pointer"
-    url: /categories/C++pointer/
   - title: "Compile"
     url: /categories/Compile/
   - title: "ComputerNetwork"
     url: /categories/ComputerNetwork/
   - title: "DataStructure"
     url: /categories/DataStructure/
-  - title: "Internal Architecture of Function"
-    url: /categories/Internal Architecture of Function/
   - title: "Operating System"
     url: /categories/Operating System/
   - title: "RenderingPipeline"
     url: /categories/RenderingPipeline/
-  - title: "Timecomplexity"
-    url: /categories/Timecomplexity/
   - title: "UnrealEngine"
     url: /categories/UnrealEngine/
