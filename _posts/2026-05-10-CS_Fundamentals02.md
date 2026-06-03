@@ -12,8 +12,8 @@ permalink: /CS_Fundamentals02
 toc: true
 toc_sticky: true
 
-date: 2026-05
-last_modified_at: 2026-05
+date: 2026-05-10
+last_modified_at: 2026-05-10
 ---
 
 # CS 기초 용어 정리_02
